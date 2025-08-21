@@ -1,0 +1,6 @@
+[submodule "BotFlowAdmin"]
+	path = BotFlowAdmin
+	url = git@github.com:MeNaemS/BotFlowAdmin.git
+[submodule "taskcity_bot"]
+	path = taskcity_bot
+	url = git@github.com:MeNaemS/taskcity_bot.git
